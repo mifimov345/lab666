@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+  <year value="2000">
+    <total-time id="10">313</total-time>
+    <total-time id="11">314</total-time>
+  </year>
+  <year value="2001">
+    <total-time id="12">315</total-time>
+  </year>
+</root>

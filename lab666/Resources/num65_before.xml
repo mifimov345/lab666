@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<fitness>
+  <id12>
+    <info>
+      <date>2001-05-01T00:00:00</date>
+      <time>PT5H15M</time>
+    </info>
+  </id12>
+  
+  <id11>
+    <info>
+      <date>2000-07-01T00:00:00</date>
+      <time>PT5H14M</time>
+    </info>
+  </id11>
+
+  <id10>
+    <info>
+      <date>2000-05-01T00:00:00</date>
+      <time>PT5H13M</time>
+    </info>
+  </id10>
+</fitness>

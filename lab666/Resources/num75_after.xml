@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+  <ул.Пушкина>
+    <brand98 station-count="0">0</brand98>
+    <brand95 station-count="1">2100</brand95>
+    <brand92 station-count="0">0</brand92>
+  </ул.Пушкина>
+  <ул.Чехова>
+    <brand98 station-count="1">2100</brand98>
+    <brand95 station-count="1">2300</brand95>
+    <brand92 station-count="2">2150</brand92>
+  </ул.Чехова>
+</root>

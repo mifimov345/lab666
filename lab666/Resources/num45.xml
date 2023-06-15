@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+  <line num="4">
+    <odd-attr-count>true</odd-attr-count>
+    <word num="0">
+      <odd-attr-count>true</odd-attr-count>ку</word>
+    <word num="1" num2="0">
+      <odd-attr-count>false</odd-attr-count>ку</word>
+    <word num="2">
+      <odd-attr-count>true</odd-attr-count>ку</word>
+    <word num="3">
+      <odd-attr-count>true</odd-attr-count>ку</word>
+    <word num="4" num2="0">
+      <odd-attr-count>false</odd-attr-count>ку</word>
+    <word num="5">
+      <odd-attr-count>true</odd-attr-count>ку</word>
+  </line>
+  <line num="1">
+    <odd-attr-count>false</odd-attr-count>
+    <word num="0">
+      <odd-attr-count>true</odd-attr-count>как</word>
+    <word num="1" num2="0">
+      <odd-attr-count>false</odd-attr-count>дела</word>
+  </line>
+  <line num="2">
+    <odd-attr-count>false</odd-attr-count>
+    <word num="0">
+      <odd-attr-count>true</odd-attr-count>тест</word>
+    <word num="1" num2="0">
+      <odd-attr-count>false</odd-attr-count>для</word>
+    <word num="2" num2="0">
+      <odd-attr-count>false</odd-attr-count>практики</word>
+  </line>
+  <line num="3">
+    <odd-attr-count>true</odd-attr-count>
+    <word num="0">
+      <odd-attr-count>true</odd-attr-count>132</word>
+    <word num="1">
+      <odd-attr-count>true</odd-attr-count>4223</word>
+  </line>
+  <line num="0">
+    <odd-attr-count>true</odd-attr-count>
+    <word num="0" num2="0">
+      <odd-attr-count>false</odd-attr-count>привет</word>
+  </line>
+</root>

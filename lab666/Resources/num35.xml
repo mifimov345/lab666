@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+  <line num="4">
+    <word num="0" child-count="0">ку</word>
+    <word num="1" num2="0" child-count="0">ку</word>
+    <word num="2" child-count="0">ку</word>
+    <word num="3" child-count="0">ку</word>
+    <word num="4" num2="0" child-count="0">ку</word>
+    <word num="5" child-count="0">ку</word>
+  </line>
+  <line num="1">
+    <word num="0" child-count="0">как</word>
+    <word num="1" num2="0" child-count="0">дела</word>
+  </line>
+  <line num="2">
+    <word num="0" child-count="0">тест</word>
+    <word num="1" num2="0" child-count="0">для</word>
+    <word num="2" num2="0" child-count="0">практики</word>
+  </line>
+  <line num="3">
+    <word num="0" child-count="0">132</word>
+    <word num="1" child-count="0">4223</word>
+  </line>
+  <line num="0">
+    <word num="0" num2="0" child-count="0">привет</word>
+  </line>
+</root>

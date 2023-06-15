@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fuelStation>
+  <Лидер_ул.Чехова>
+    <brand>92</brand>
+    <price>2200</price>
+  </Лидер_ул.Чехова>
+  
+  <Лукойл_ул.Чехова>
+    <brand>98</brand>
+    <price>2100</price>
+  </Лукойл_ул.Чехова>
+
+  <Лукойл_ул.Чехова>
+    <brand>92</brand>
+    <price>2100</price>
+  </Лукойл_ул.Чехова>
+  
+  <Лукойл2_ул.Чехова>
+    <brand>95</brand>
+    <price>2300</price>
+  </Лукойл2_ул.Чехова>
+  
+  <КакаяТо_ул.Пушкина>
+    <brand>95</brand>
+    <price>2100</price>
+  </КакаяТо_ул.Пушкина>
+</fuelStation>

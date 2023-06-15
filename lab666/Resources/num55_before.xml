@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<my_ns:root xmlns:root="xml" xmlns:my_ns="xml2" xmlns:root2="xml3">
+  
+  <root:node>
+  </root:node>
+  
+  <root2:node>
+    <node2></node2>
+  </root2:node>
+  
+  <node3>
+    <root2:node>
+      <node></node>
+      <root2:node></root2:node>
+    </root2:node>
+  </node3>
+  
+</my_ns:root>
